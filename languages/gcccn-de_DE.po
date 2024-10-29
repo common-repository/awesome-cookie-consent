@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-29 16:02+0530\n"
+"PO-Revision-Date: 2020-02-29 16:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-gcccn-admin.php:81
+msgid "Awesome Cookie Consent"
+msgstr ""
+
+#: classes/class-gcccn.php:56
+msgid "View Cookie Consent Settings"
+msgstr "Einstellungen für die Cookie-Zustimmung anzeigen"
+
+#: classes/class-gcccn.php:56
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: templates/gcccn-cookie-consent-text.php:4
+#: templates/gcccn-general-settings.php:4
+#: templates/gcccn-layout-configuration.php:4
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: templates/gcccn-cookie-consent-text.php:6
+#: templates/gcccn-general-settings.php:6
+#: templates/gcccn-layout-configuration.php:6
+msgid "Cookie Consent Text"
+msgstr "Cookie-Einwilligungstext"
+
+#: templates/gcccn-cookie-consent-text.php:8
+#: templates/gcccn-general-settings.php:8
+#: templates/gcccn-layout-configuration.php:8
+msgid "Layout Configuration"
+msgstr "Layoutkonfiguration"
+
+#: templates/gcccn-cookie-consent-text.php:17
+msgid "Main message"
+msgstr "Haupt Nachricht"
+
+#: templates/gcccn-cookie-consent-text.php:20
+msgid ""
+"This website uses cookies to ensure you get the best experience on our "
+"website."
+msgstr ""
+"Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste "
+"Erfahrung auf unserer Website erhalten."
+
+#: templates/gcccn-cookie-consent-text.php:25
+msgid "Dismiss button text"
+msgstr "Schaltflächentext schließen"
+
+#: templates/gcccn-cookie-consent-text.php:28
+msgid "Got it!"
+msgstr "Ich habs!"
+
+#: templates/gcccn-cookie-consent-text.php:33
+msgid "Policy link text"
+msgstr "Richtlinien-link-text"
+
+#: templates/gcccn-cookie-consent-text.php:36
+msgid "Learn More"
+msgstr "Erfahren Sie mehr"
+
+#: templates/gcccn-cookie-consent-text.php:42
+msgid "Cookie policy URL"
+msgstr "URL der Cookie-Richtlinie"
+
+#: templates/gcccn-cookie-consent-text.php:47
+msgid "Custom URL"
+msgstr "Benutzerdefinierte URL"
+
+#: templates/gcccn-cookie-consent-text.php:48
+msgid "Page Link"
+msgstr "Seiten-Link"
+
+#: templates/gcccn-cookie-consent-text.php:55
+msgid "Select a Page"
+msgstr "Seite auswählen"
+
+#: templates/gcccn-cookie-consent-text.php:67
+msgid "Check to open in new tab"
+msgstr "Aktivieren Sie diese Option, um die neue Registerkarte zu öffnen"
+
+#: templates/gcccn-general-settings.php:15
+msgid "Cookie Consent Visibility"
+msgstr "Sichtbarkeit der Cookie-Zustimmung"
+
+#: templates/gcccn-general-settings.php:19
+msgid "If checked then Cookie Consent popup is hide."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird das Popup \"Cookie Consent\" "
+"ausgeblendet."
+
+#: templates/gcccn-general-settings.php:25
+msgid "Cookie Expiry Duration"
+msgstr "Ablaufdauer für Cookies"
+
+#: templates/gcccn-general-settings.php:29
+msgid "1 day"
+msgstr "1 Tag"
+
+#: templates/gcccn-general-settings.php:30
+msgid "1 week"
+msgstr "1 Woche"
+
+#: templates/gcccn-general-settings.php:31
+msgid "1 Month"
+msgstr "1 Monat"
+
+#: templates/gcccn-general-settings.php:32
+msgid "3 Months"
+msgstr "3 Monate"
+
+#: templates/gcccn-general-settings.php:33
+msgid "6 Months"
+msgstr "6 Monate"
+
+#: templates/gcccn-general-settings.php:34
+msgid "1 Year"
+msgstr "1 Jahr"
+
+#: templates/gcccn-general-settings.php:50
+#: templates/gcccn-layout-configuration.php:179
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: templates/gcccn-layout-configuration.php:15
+msgid "Style and Position"
+msgstr "Stil und Position"
+
+#: templates/gcccn-layout-configuration.php:16
+msgid "Choose the display style and position of the cookie consent banner."
+msgstr ""
+"Wählen Sie den Anzeigestil und die Position des Cookie-Zustimmung Banners."
+
+#: templates/gcccn-layout-configuration.php:22
+msgid "Tooltip Bottom left"
+msgstr "Tooltip Unten links"
+
+#: templates/gcccn-layout-configuration.php:27
+msgid "Tooltip Bottom right"
+msgstr "Tooltip Unten rechts"
+
+#: templates/gcccn-layout-configuration.php:32
+msgid "Tooltip Top left"
+msgstr "Tooltip Oben links"
+
+#: templates/gcccn-layout-configuration.php:37
+msgid "Tooltip Top right"
+msgstr "Tooltip Oben rechts"
+
+#: templates/gcccn-layout-configuration.php:42
+msgid "Bar Bottom"
+msgstr "Bar Unterseite"
+
+#: templates/gcccn-layout-configuration.php:47
+msgid "Bar Top"
+msgstr "Bar oben"
+
+#: templates/gcccn-layout-configuration.php:55
+msgid "Layout"
+msgstr "Layout"
+
+#: templates/gcccn-layout-configuration.php:61
+msgid "Border"
+msgstr "Grenze"
+
+#: templates/gcccn-layout-configuration.php:64
+#: templates/gcccn-layout-configuration.php:75
+#: templates/gcccn-layout-configuration.php:86
+#: templates/gcccn-layout-configuration.php:97
+#: templates/gcccn-layout-configuration.php:108
+msgid "None"
+msgstr "Keiner"
+
+#: templates/gcccn-layout-configuration.php:65
+msgid "Thin"
+msgstr "Dünn"
+
+#: templates/gcccn-layout-configuration.php:66
+#: templates/gcccn-layout-configuration.php:77
+#: templates/gcccn-layout-configuration.php:88
+#: templates/gcccn-layout-configuration.php:99
+msgid "Normal"
+msgstr "Normal"
+
+#: templates/gcccn-layout-configuration.php:67
+msgid "Thick"
+msgstr "Dick"
+
+#: templates/gcccn-layout-configuration.php:72
+msgid "Corners"
+msgstr "Ecken"
+
+#: templates/gcccn-layout-configuration.php:76
+#: templates/gcccn-layout-configuration.php:87
+#: templates/gcccn-layout-configuration.php:98
+#: templates/gcccn-layout-configuration.php:122
+msgid "Small"
+msgstr "Klein"
+
+#: templates/gcccn-layout-configuration.php:78
+#: templates/gcccn-layout-configuration.php:89
+#: templates/gcccn-layout-configuration.php:100
+#: templates/gcccn-layout-configuration.php:124
+msgid "Large"
+msgstr "Groß"
+
+#: templates/gcccn-layout-configuration.php:83
+msgid "Padding"
+msgstr "Innenabstand"
+
+#: templates/gcccn-layout-configuration.php:94
+msgid "Margin"
+msgstr "Margin"
+
+#: templates/gcccn-layout-configuration.php:105
+msgid "Transparency"
+msgstr "Transparenz"
+
+#: templates/gcccn-layout-configuration.php:118
+msgid "Font size"
+msgstr "Schriftgröße"
+
+#: templates/gcccn-layout-configuration.php:121
+msgid "Tiny"
+msgstr "Sehr klein"
+
+#: templates/gcccn-layout-configuration.php:123
+msgid "Default"
+msgstr "Standard"
+
+#: templates/gcccn-layout-configuration.php:134
+msgid "Colors"
+msgstr "Farben"
+
+#: templates/gcccn-layout-configuration.php:141
+msgid "Popup background"
+msgstr "Popup Hintergrund"
+
+#: templates/gcccn-layout-configuration.php:147
+msgid "Popup text"
+msgstr "Popup Text"
+
+#: templates/gcccn-layout-configuration.php:153
+msgid "Popup border"
+msgstr "Popup Grenze"
+
+#: templates/gcccn-layout-configuration.php:159
+msgid "Button background"
+msgstr "Button Hintergrund"
+
+#: templates/gcccn-layout-configuration.php:165
+msgid "Button text"
+msgstr "Button-Text"
+
+#: templates/gcccn-layout-configuration.php:180
+msgid "Click to preview"
+msgstr "Zur Vorschau anklicken"

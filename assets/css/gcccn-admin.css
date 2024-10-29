@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+.gcccn-row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.gcccn-row:before, .gcccn-row:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+ 
+.gcccn-col-2 {
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.gcccn-col-2 {
+    width: 16.66%;
+}
+
+.gcccn_cookieconsent div.steps {
+    padding-bottom: 15px;
+    padding-top: 1px;
+}
+
+.gcccn_cookieconsent div.steps h2 {
+    background: #e5e5e5;
+    padding: 10px 10px;
+    color: #555;
+    font-size: 14px;
+}
+
+.gcccn_cookieconsent div.steps p {
+    font-size: 14px;
+}
+
+.gcccn_cookieconsent div.steps div.step  div.content {
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.gcccn_cookieconsent ul.choices {
+    list-style: none;
+    margin-bottom: 0;
+    margin-bottom: 5px;
+    background-color: #f1f1f1;
+    border-right-color: #f1f1f1;
+}
+
+.gcccn_cookieconsent ul.choices:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.gcccn_cookieconsent ul.choices > li {
+    margin-left: 0;
+}
+
+.gcccn_cookieconsent ul.choices a {
+    border-radius: 3px;
+    background: #eff2f7;
+    color: #333;
+    display: block;
+    margin-bottom: 10px;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #c9cdd4;
+}
+
+.gcccn_cookieconsent ul.choices li.active a,
+.gcccn_cookieconsent ul.choices a:hover {
+    background: #c9cdd4;
+}
+
+.gcccn_cookieconsent div.colors div.custom input[type="color"] {
+    background-color: #fff;
+    border: 0;
+    font-size: 1rem;
+    height: 34px;
+    line-height: 34px;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 50px;
+}
+
+.gcccn_cookieconsent div.colors div.sp-preview {
+    height: 20px;
+}
+
+.gcccn_cookieconsent textarea{
+    height: 100px;
+}
+
+.gcccn_cookieconsent .btns #gcccn_layout_configuration{
+    display: none;
+}
+
+.gcccn_cookieconsent .btns .gcccn-preview {
+    margin-left: 10px;
+}
+
+.gcccn_label {
+    display: block;
+    margin-top: 10px;
+}
+.displaysubmenu{
+    list-style: none;
+    margin: 8px 0 0;
+    padding: 0;
+    font-size: 13px;
+    /*float: left;*/
+    display: block;
+    color: #666;
+}
+.displaysubmenu li{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+.sub-active {
+    color:black;
+    text-decoration:none;
+}
+.displaysubmenu a{
+    margin-right: 5px;
+}
+.b{
+    color: #5b9dd9;
+}
+.displaysubmenu li + li::before {
+    content: " | ";
+    margin-right: 5px;
+}
